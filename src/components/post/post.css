@@ -55,3 +55,9 @@
     -webkit-box-orient: vertical;
 
 }
+
+@media screen and (max-width: 480px) {
+  .postImg {
+    margin-right: 50px;
+  }
+}

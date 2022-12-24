@@ -1,3 +1,15 @@
 .singlePost {
     flex: 9;
 }
+
+.singlePostWrapper {
+    padding: 20px;
+    padding-right: 0;
+}
+
+.singlePostTitle {
+    text-align: center;
+    margin: 10px;
+    font-family: "Lora", serif;
+    font-size: 28px;
+}
